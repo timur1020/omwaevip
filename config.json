@@ -1,0 +1,220 @@
+{
+ "Account": {
+     "Username": "wae",
+     "Password": "wae",
+     "2FA": "ON"
+ },
+ "Cut Lose": "Off",
+ "Client Seed": {
+     "Toggle": "ON",
+     "If Random Chance": "On",
+     "If Base Bet": "0.01",
+     "If Lose Streak": "1"
+  },
+ "Currency": "Doge",
+ "Target Profit": {
+      "Target Profit": "1000000",
+      "Relogin If Target Profit": {
+          "Toggle": "ON",
+          "Interval": "10"
+      }
+ },
+ "Target Lose": "0", 
+ "Target Balance": "20000000",
+ "Auto Change Betset": {
+     "Reset to Base Bet": "ON",
+     "If Profit": "5.041",
+     "If Lose Streak": "0",
+     "If Win Streak": "1",
+     "Interval": "0"
+ },
+ "Config": [{
+     "Name Bet Set": "C45",
+     "Base Bet": "0.01",
+     "Max Bet": "0",
+     "Chance": "45",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "31",
+          "Max": "50",
+          "If Base Bet": "0",
+          "Reset Chance": "1"
+     },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose Streak": "1",
+              "If Win Streak": "1",
+              "If Bets":"1",
+              "Random":"OFF"
+          }
+     },
+     "If Win": "1",
+     "If Lose": "1.83",
+     "Repeat Jump If Lose": "OFF",
+     "Jump If Lose": [{
+          "Name": "Jump 1",
+          "Toggle": "ON",
+          "If Lose": "1",
+          "Number Of Bets": "10"
+          }
+     ],
+     "Reset If Win Streak": "1",
+     "Reset If Lose Streak":"0",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     },{
+     "Name Bet Set": "C46",
+     "Base Bet": "0.01",
+     "Max Bet": "0",
+     "Chance": "46",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "31",
+          "Max": "50",
+          "If Base Bet": "0",
+          "Reset Chance": "1"
+     },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose Streak": "1",
+              "If Win Streak": "1",
+              "If Bets":"1",
+              "Random":"OFF"
+          }
+     },
+     "If Win": "1",
+     "If Lose": "1.864",
+     "Repeat Jump If Lose": "OFF",
+     "Jump If Lose": [{
+          "Name": "Jump 1",
+          "Toggle": "ON",
+          "If Lose": "1",
+          "Number Of Bets": "9"
+          }
+     ],
+     "Reset If Win Streak": "1",
+     "Reset If Lose Streak":"0",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     },{
+     "Name Bet Set": "C47",
+     "Base Bet": "0.01",
+     "Max Bet": "0",
+     "Chance": "47",
+     "Random Chance": {
+          "Toggle": "Off",
+          "Min": "31",
+          "Max": "50",
+          "If Base Bet": "0",
+          "Reset Chance": "1"
+     },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose Streak": "1",
+              "If Win Streak": "1",
+              "If Bets":"1",
+              "Random":"OFF"
+          }
+     },
+     "If Win": "1",
+     "If Lose": "1.899",
+     "Repeat Jump If Lose": "OFF",
+     "Jump If Lose": [{
+          "Name": "Jump 1",
+          "Toggle": "ON",
+          "If Lose": "1",
+          "Number Of Bets": "8"
+          }
+     ],
+     "Reset If Win Streak": "1",
+     "Reset If Lose Streak":"0",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     },{
+     "Name Bet Set": "C48",
+     "Base Bet": "0.01",
+     "Max Bet": "0",
+     "Chance": "48",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "31",
+          "Max": "50",
+          "If Base Bet": "0",
+          "Reset Chance": "1"
+     },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose Streak": "1",
+              "If Win Streak": "1",
+              "If Bets":"1",
+              "Random":"OFF"
+          }
+     },
+     "If Win": "1",
+     "If Lose": "1.935",
+     "Repeat Jump If Lose": "OFF",
+     "Jump If Lose": [{
+          "Name": "Jump 1",
+          "Toggle": "ON",
+          "If Lose": "1",
+          "Number Of Bets": "7"
+          }
+     ],
+     "Reset If Win Streak": "1",
+     "Reset If Lose Streak":"0",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     },{
+     "Name Bet Set": "C49",
+     "Base Bet": "0.01",
+     "Max Bet": "0",
+     "Chance": "49",
+     "Random Chance": {
+          "Toggle": "OFF",
+          "Min": "31",
+          "Max": "50",
+          "If Base Bet": "0",
+          "Reset Chance": "1"
+     },
+     "Bet": {
+          "Bet": "Low",
+          "Hi / Low": {
+              "Toggle": "ON",
+              "If Lose Streak": "1",
+              "If Win Streak": "1",
+              "If Bets":"1",
+              "Random":"OFF"
+          }
+     },
+     "If Win": "1",
+     "If Lose": "1.973",
+     "Repeat Jump If Lose": "OFF",
+     "Jump If Lose": [{
+          "Name": "Jump 1",
+          "Toggle": "ON",
+          "If Lose": "1",
+          "Number Of Bets": "6"
+          }
+     ],
+     "Reset If Win Streak": "1",
+     "Reset If Lose Streak":"0",
+     "Reset If Profit": "0.00000001",
+     "Interval": "0"
+     }
+  ],
+  "Auto Wd": {
+       "Toggle": "OFF",
+       "If Balance": "50",
+       "Wallet Address": "D",
+       "Amount": "10"
+      },
+  "User-Agent": "Android Phone / Chrome 61 [Mobile]: Mozilla/5.0 (Linux; Android 12.5; Marvel Xcore7 Build/LMY47I; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/61.0.3163.98 Mobile Safari/537.36"
+}
